@@ -1,10 +1,10 @@
 {
-  "name": "datocms-plugin-<INSERT-YOUR-PACKAGE-NAME-HERE>",
-  "description": "<INSERT-YOUR-PLUGIN-DESCRIPTION-HERE>",
-  "homepage": "https://github.com/<USER>/<REPO>",
+  "name": "datocms-plugin-deepl-sidebar-translation",
+  "description": "Translate your DatoCMS content instantly with DeepL. High-quality translations without leaving your editor.",
+  "homepage": "https://github.com/laitdevelopers/Datocms-deepl-plugin",
   "private": false,
   "version": "0.1.0",
-  "author": "<YOUR-NAME> <<YOUR-EMAIL>>",
+  "author": "Morten Nørrehus mn@lait.dk",
   "type": "module",
   "keywords": [
     "datocms-plugin"
