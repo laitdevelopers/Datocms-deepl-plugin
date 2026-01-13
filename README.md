@@ -1,3 +1,3 @@
-# Deep L
+# Deep L Sidebar Translation
 
-<INSERT-YOUR-PLUGIN-DESCRIPTION-HERE>
+Translate your DatoCMS content instantly with DeepL. High-quality translations without leaving your editor.
