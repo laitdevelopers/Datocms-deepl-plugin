@@ -3,7 +3,7 @@
   "description": "Translate your DatoCMS content instantly with DeepL. High-quality translations without leaving your editor.",
   "homepage": "https://github.com/laitdevelopers/Datocms-deepl-plugin",
   "private": false,
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Morten Nørrehus mn@lait.dk",
   "type": "module",
   "keywords": [
